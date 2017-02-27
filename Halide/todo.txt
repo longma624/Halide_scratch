@@ -1,0 +1,8 @@
+1) Splitting (should fix local laplacian and multi-scale interpolate)
+2) Splitting test
+3) Add Harris corner detection
+4) Add Unsharp mask
+5) Fix conv layer
+6) Add histogram normalization
+
+How general should we make the splitting

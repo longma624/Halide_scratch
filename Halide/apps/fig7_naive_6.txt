@@ -1,0 +1,28 @@
+bilateral_grid:
+runtime: 16.7535
+blur:
+runtime: 20.4224
+camera_pipe:
+runtime: 46.5089
+conv_layer:
+runtime: 183.602
+harris:
+runtime: 42.3507
+hist:
+runtime: 24.64
+interpolate:
+runtime: 82.124
+lens_blur:
+runtime: 580.831
+local_laplacian:
+runtime: 357.504
+mat_mul:
+runtime: 1257.96
+max_filter:
+runtime: 338.254
+non_local_means:
+runtime: 34.308
+unsharp:
+runtime: 26.4012
+vgg:
+runtime: 21673.7
